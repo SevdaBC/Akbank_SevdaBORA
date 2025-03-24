@@ -1,0 +1,2 @@
+# Akbank_SevdaBORA
+SevdaBoraÇınar_metro_simulate
